@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajokeren
-- 👀 I’m interested in Chemistry, Programming, Machine Learning, and Mathematic
-- 🌱 I’m currently learning Chemistry, python and calculus
-- 💞️ I’m looking to collaborate on Computational Chemistry
+- 👀 I’m interested in Material Sciences for Microchips
+- 🌱 I’m currently learning Chemistry, Math and Computational Chemistry and Mathematics
+- 💞️ I’m looking to collaborate on Computational Mathematics and Chemsitry
 - 📫 How to reach me instagram: @arr.afi_
 
 <!---
