@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajokeren
+- 👋 Hi, I’m @eilectrofy
 - 👀 I’m interested in Material Sciences for Microchips
 - 🌱 I’m currently learning Chemistry, Math and Computational Chemistry and Mathematics
 - 💞️ I’m looking to collaborate on Computational Mathematics and Chemsitry
