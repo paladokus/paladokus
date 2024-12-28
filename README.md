@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @eilectrofy
+- 👋 Hi, I’m @paladokus
 - 👀 I’m interested in Material Sciences for Microchips
-- 🌱 I’m currently learning Chemistry, Math and Computational Chemistry and Mathematics
-- 💞️ I’m looking to collaborate on Computational Mathematics and Chemsitry
+- 🌱 I’m currently learning Chemistry.
 - 📫 How to reach me on mail: 10522013@mahasiswa.itb.ac.id
 
 <!---
