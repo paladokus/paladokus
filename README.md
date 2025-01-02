@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paladokus
 - 👀 I’m interested in Material Sciences for Microchips
-- 🌱 I’m currently learning Chemistry.
+- 🌱 I’m Chemistry Student
 - 📫 How to reach me on mail: 10522013@mahasiswa.itb.ac.id
 
 <!---
