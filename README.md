@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @paladokus<br>- 👀 I’m interested in Material Sciences and Mathematics<br>- 🌱 I’m Chemistry Student<br>- 📫 How to reach me on mail: 10522013@mahasiswa.itb.ac.id
+- 👋 Hi, I’m @paladokus<br>- 👀 I’m interested in Material Sciences and everythings behind it<br>- 🌱 I’m Chemistry Student<br>- 📫 How to reach me on mail: 10522013@mahasiswa.itb.ac.id
 
 
 ## 📫 mail me on: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:10522013@mahasiswa.itb.ac.id) 
